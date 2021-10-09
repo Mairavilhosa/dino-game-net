@@ -1,2 +1,2 @@
-# Dino Net
+# Dino Net 🎲
 Joguinho do dino, venha jogar!
